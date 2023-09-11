@@ -1,1 +1,1 @@
-# MastermindProyect
+# Mastermind
